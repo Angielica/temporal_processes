@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="img/ontology_alternative.png" alt="Ontology" width="500">
+    <img src="img/ontology_alternative.png" alt="Ontology" width="1000">
 </h1>
 
 <p align="center">
