@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="img/ontology_alternative.pdf" alt="Ontology" width="1000">
+    <img src="img/ontology_alternative.png" alt="Ontology" width="1000">
 </h1>
 
 <p align="center">
@@ -55,12 +55,12 @@ A list of Point Processes resources.
 </tr>
 
 <tr>
-<th>An empirical comparison of deep-neural-network architectures for next activity prediction using context-enriched process event logs<a href="#references"></a></th>
+<th>An empirical comparison of deep-neural-network architectures for next activity prediction using context-enriched process event logs<a href="#references">[Wei20]</a></th>
 <th>2020</th>
 </tr>
 
 <tr>
-<th>What Averages Do Not Tell - Predicting Real Life Processes with Sequential Deep Learning<a href="#references"></a></th>
+<th>What Averages Do Not Tell - Predicting Real Life Processes with Sequential Deep Learning<a href="#references">[Ket22]</a></th>
 <th>2021</th>
 </tr>
 
@@ -70,19 +70,19 @@ A list of Point Processes resources.
 </tr>
 
 <tr>
-<th>What Happens Next? Event Prediction Using a Compositional Neural Network Model<a href="#references"></a></th>
+<th>What Happens Next? Event Prediction Using a Compositional Neural Network Model<a href="#references">[Gra16]</a></th>
 <th>2016</th>
 </tr>
 
 
 <tr>
-<th>Attentive Neural Point Processes for Event Forecasting<a href="#references"></a></th>
+<th>Attentive Neural Point Processes for Event Forecasting<a href="#references">[Gu21]</a></th>
 <th>2021</th>
 </tr>
 
 
 <tr>
-<th>Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information<a href="#references"></a></th>
+<th>Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information<a href="#references">[Oka19]</a></th>
 <th>2019</th>
 </tr>
 
@@ -93,7 +93,7 @@ A list of Point Processes resources.
 
 
 <tr>
-<th>SEISMIC: A Self-Exciting Point Process Model for Predicting Tweet Popularity <a href="#references"></a></th>
+<th>SEISMIC: A Self-Exciting Point Process Model for Predicting Tweet Popularity <a href="#references">[Zha15]</a></th>
 <th>2015</th>
 </tr>
 
@@ -105,13 +105,13 @@ A list of Point Processes resources.
 
 
 <tr>
-<th>A Variational Point Process Model for Social Event Sequences <a href="#references"></a></th>
+<th>A Variational Point Process Model for Social Event Sequences <a href="#references">[Pan20]</a></th>
 <th>2020</th>
 </tr>
 
 
 <tr>
-<th>What is More Likely to Happen Next? Video-and-Language Future Event Prediction<a href="#references"></a></th>
+<th>What is More Likely to Happen Next? Video-and-Language Future Event Prediction<a href="#references">[Lei20]</a></th>
 <th>2020</th>
 </tr>
 
@@ -123,7 +123,7 @@ A list of Point Processes resources.
 
 
 <tr>
-<th>Future Event Prediction: I f and When<a href="#references"></a></th>
+<th>Future Event Prediction: I f and When<a href="#references">[Neu19]</a></th>
 <th>2019</th>
 </tr>
 
@@ -221,7 +221,7 @@ A list of Point Processes resources.
 </tr>
 
 <tr>
-<th>Neural Survival Recommender<a href="#references"></a></th>
+<th>Neural Survival Recommender<a href="#references">[Jin17]</a></th>
 <th>2017</th>
 </tr>
 
@@ -472,17 +472,17 @@ A list of Point Processes resources.
 </tr>
 
 <tr>
-<th>Neural Temporal Point Process: A Review<a href="#references">[]</a> </th>
+<th>Neural Temporal Point Process: A Review<a href="#references">[Shc21]</a> </th>
 <th>2021</th>
 </tr>
 
 <tr>
-<th>Recent Advance in Temporal Point Process: from Machine Learning Perspective<a href="#references">[]</a> </th>
+<th>Recent Advance in Temporal Point Process: from Machine Learning Perspective<a href="#references">[Yan19]</a> </th>
 <th>2019</th>
 </tr>
 
 <tr>
-<th>Machine Learning for Survival Analysis: A Survey<a href="#references">[]</a> </th>
+<th>Machine Learning for Survival Analysis: A Survey<a href="#references">[Wan19]</a> </th>
 <th>2019</th>
 </tr>
 
@@ -492,22 +492,22 @@ A list of Point Processes resources.
 </tr>
 
 <tr>
-<th>Deep Learning for Social Network Information Cascade Analysis: a survey<a href="#references">[]</a> </th>
+<th>Deep Learning for Social Network Information Cascade Analysis: a survey<a href="#references">[Gao20]</a> </th>
 <th>2020</th>
 </tr>
 
 <tr>
-<th>Spatio-temporal point process statistics: A review<a href="#references">[]</a> </th>
+<th>Spatio-temporal point process statistics: A review<a href="#references">[Gon16]</a> </th>
 <th>2016</th>
 </tr>
 
 <tr>
-<th>Event Prediction in the Big Data Era: A Systematic Survey<a href="#references">[]</a> </th>
+<th>Event Prediction in the Big Data Era: A Systematic Survey<a href="#references">[Zhao22]</a> </th>
 <th>2022</th>
 </tr>
 
 <tr>
-<th>Real-world diffusion dynamics based on point process approaches: a review<a href="#references">[]</a> </th>
+<th>Real-world diffusion dynamics based on point process approaches: a review<a href="#references">[Kim20]</a> </th>
 <th>2020</th>
 </tr>
 
@@ -733,4 +733,24 @@ A list of the relevant datasets is available <a href="https://github.com/Angieli
                Mehrdad Farajtabar and
                Le Song and
                Xiaokang Yang and
-               Hongyuan Zha.
+               Hongyuan Zha. Learning Time Series Associated Event Sequences With Recurrent Point
+                Process Networks. {IEEE} Trans. Neural Networks Learn. Syst. (2019)
+
+ - <a href=""> [Gao20] </a> Liqun Gao and
+                Bin Zhou and
+                Yan Jia and
+                Hongkui Tu and
+                Ye Wang and
+                Chenguang Chen and
+                Haiyang Wang and
+                Hongwu Zhuang. Deep Learning for Social Network Information Cascade Analysis: a survey. 5th {IEEE} International Conference on Data Science in Cyberspace,
+                {DSC} (2020) 
+
+ - <a href=""> [Gon16] </a> Jonatan A. González and Francisco J. Rodríguez-Cortés and Ottmar Cronie and Jorge Mateu. Spatio-temporal point process statistics: A review. Spatial Statistics. (2016)
+
+ - <a href=""> [Zhao22] </a> Liang Zhao. Event Prediction in the Big Data Era: {A} Systematic Survey. {ACM} Comput. Surv. (2022)
+
+ - <a href=""> [Kim20] </a> Minkyoung Kim and
+                Dean Paini and
+                Raja Jurdak. Real-world diffusion dynamics based on point process approaches: a
+                review. Artif. Intell. Rev. (2020)
