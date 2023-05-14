@@ -519,7 +519,7 @@ A list of the relevant datasets is available <a href="https://github.com/Angieli
 
 # References
 
-- <a href=""> [Cha19] </a> B Charpentier,
+- <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/78efce208a5242729d222e7e6e3e565e-Paper.pdf"> [Cha19] </a> B Charpentier,
                M. Bilos,
                S, Gunnemann. Uncertainty on Asynchronous Time Event Prediction. Advances in Neural Information Processing Systems 32: Annual Conference
                on Neural Information Processing Systems 2019, NeurIPS 2019
