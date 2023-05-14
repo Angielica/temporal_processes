@@ -487,7 +487,7 @@ A list of Point Processes resources.
 </tr>
 
 <tr>
-<th>Influence Maximization on Social Graphs: A Survey<a href="#references">[]</a> </th>
+<th>Influence Maximization on Social Graphs: A Survey<a href="#references">[Li18]</a> </th>
 <th>2018</th>
 </tr>
 
